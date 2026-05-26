@@ -41,7 +41,7 @@ Pour bâtir le futur de la tech européenne et mondiale, nous avons besoin des m
 
 ### Comment contribuer ?
 1. **Explorez le Core :** Analysez nos premiers prototypes de gestion système et proposez vos optimisations.
-2. **Développez des Outils :** Contribuez à la création d'applications utilitaires ou professionnelles pour enrichir l'écosystème*.
+2. **Développez des Outils :** Contribuez à la création d'applications utilitaires ou professionnelles pour enrichir l'écosystème¹.
 3. **Participez aux Conférences :** Suivez et soutenez notre cycle de présentations, à commencer par la conférence inaugurale **Evolupp C-0**.
 
 ---
@@ -52,6 +52,10 @@ Pour bâtir le futur de la tech européenne et mondiale, nous avons besoin des m
 
 * Chaque ligne de code doit être justifiée et optimisée.
 * L'indépendance technologique est notre priorité absolue.
+
+---
+
+¹Les coférences sont, pour l'instant, en format présentation PowerPoint
 
 ---
 © 2026 Evolupp Tech. Conçu en France, propulsé par la communauté.
