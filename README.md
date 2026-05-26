@@ -1,4 +1,4 @@
-# 🚀 Evolupp - Écosystème Technologique Souverain
+# 🚀 Evolupp — Écosystème Technologique Souverain
 
 Evolupp est un projet technologique global et indépendant basé en France. Notre ambition est de briser les monopoles des géants de la tech en développant une alternative logicielle complète, performante et respectueuse de la souveraineté numérique. 
 
