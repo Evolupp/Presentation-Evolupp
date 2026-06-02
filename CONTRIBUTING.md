@@ -6,6 +6,10 @@ Ce projet n'est pas un espace d'expérimentation désordonné. Chaque ligne de c
 
 ---
 
+## ❓ Comment nous aider ?
+
+### Vous pouvez coder, trouver des idées, améliorer l'interface utilisateur, ou si vous trouvez 
+
 ## 🎯 Nos Critères d'Exigence
 
 ### 1. Zéro Dépendance Externe
