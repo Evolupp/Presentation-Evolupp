@@ -1,6 +1,6 @@
 # 🚀 Evolupp — Écosystème Technologique Souverain
 
-***Même si cela paraît improblable, nous ne sommes que des collégiens. Certes, mais nous savons coder (voir [GéoRappel](https://georappel-doc.blogspot.com))***
+***Même si cela paraît improblable, nous ne sommes que des collégiens. Certes, mais nous savons coder (voir [GéoRappel](https://georappel-doc.blogspot.com)).***
 
 Evolupp est un projet technologique global et indépendant basé en France. Notre ambition est de briser les monopoles des géants de la tech en développant une alternative logicielle complète, performante et respectueuse de la souveraineté numérique. 
 
